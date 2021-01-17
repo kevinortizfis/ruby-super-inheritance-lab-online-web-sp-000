@@ -4,7 +4,7 @@ class ChattyStudent < Student
     super
   end
 
-  def 
+  def
     super
   end
 end
